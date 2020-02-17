@@ -1,0 +1,13 @@
+**/node_modules
+**/dist
+client/package-lock.json
+
+# Editor directories and files
+.idea
+.vscode
+
+# Virtual env
+venv/
+
+# cache
+**/__pycache__
