@@ -1,6 +1,6 @@
 Tagging 
 ===========
-ReST APIs for music tagging purpose.
+Web application for music tagging purpose - VueJS, Flask (ReST APIs), SQLite, Docker
 
     
 ## Run with Docker
